@@ -1,0 +1,24 @@
+.menu {
+  background-color: burlywood;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 1000px;
+}
+
+.item {
+  background-color: rgb(135,153,245);
+}
+.titulo{
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(135,153,245);
+}
+.estrela{
+
+  width: 50px;
+  height: 50px;
+}
